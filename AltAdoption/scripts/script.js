@@ -1,4 +1,13 @@
 
+
+
+
+
+
+
+
+
+
 document.addEventListener("DOMContentLoaded", function() {
 	const carrosselItems = document.querySelectorAll('.carousel .img img, .carousel2 .img2 img');
 	carrosselItems.forEach(item => {
